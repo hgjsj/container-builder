@@ -4,6 +4,9 @@
 *.dll
 *.so
 *.dylib
+main
+container-builder
+/.vscode/*
 
 # Test binary, built with `go test -c`
 *.test
